@@ -15,6 +15,9 @@ result = {}
 cumulative_data = {}
 
 for year in sorted(df['Vuosi'].unique()):  # Loop through each unique year
+    # Convert year to native Python type (str or int) to avoid JSON encoding issues
+    year = int(year)
+    
     # Filter data up to and including the current year
     data_up_to_year = df[df['Vuosi'] <= year]
     
@@ -35,7 +38,7 @@ for year in sorted(df['Vuosi'].unique()):  # Loop through each unique year
         })
     
     # Store the results for this year
-    result[year] = {
+    result[year] = {  # 'year' is now a native Python int
         "total_power": total_power,
         "municipalities": municipalities
     }
