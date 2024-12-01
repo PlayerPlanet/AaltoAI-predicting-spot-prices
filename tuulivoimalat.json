@@ -1,0 +1,5537 @@
+{
+    "1995": {
+        "total_power": 7.0,
+        "municipalities": [
+            {
+                "name": "Ii",
+                "power": 7.0,
+                "percentage": 100.0
+            }
+        ]
+    },
+    "1996": {
+        "total_power": 8.5,
+        "municipalities": [
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 17.65
+            },
+            {
+                "name": "Ii",
+                "power": 7.0,
+                "percentage": 82.35
+            }
+        ]
+    },
+    "1997": {
+        "total_power": 15.200000000000001,
+        "municipalities": [
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 9.87
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 13.16
+            },
+            {
+                "name": "Ii",
+                "power": 8.8,
+                "percentage": 57.89
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 3.29
+            },
+            {
+                "name": "Lemland",
+                "power": 2.4,
+                "percentage": 15.79
+            }
+        ]
+    },
+    "1998": {
+        "total_power": 16.8,
+        "municipalities": [
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 8.93
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 6.55
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 11.9
+            },
+            {
+                "name": "Ii",
+                "power": 8.8,
+                "percentage": 52.38
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 2.98
+            },
+            {
+                "name": "Lemland",
+                "power": 2.4,
+                "percentage": 14.29
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 2.98
+            }
+        ]
+    },
+    "1999": {
+        "total_power": 58.00000000000001,
+        "municipalities": [
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 2.59
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 1.9
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 1.03
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 3.45
+            },
+            {
+                "name": "Ii",
+                "power": 8.8,
+                "percentage": 15.17
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 12.07
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.86
+            },
+            {
+                "name": "Lemland",
+                "power": 2.4,
+                "percentage": 4.14
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 3.45
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 5.17
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 26.9
+            },
+            {
+                "name": "Pori",
+                "power": 13.0,
+                "percentage": 22.41
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.86
+            }
+        ]
+    },
+    "2003": {
+        "total_power": 59.495,
+        "municipalities": [
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 2.52
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 1.85
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 1.01
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 3.36
+            },
+            {
+                "name": "Huittinen",
+                "power": 0.075,
+                "percentage": 0.13
+            },
+            {
+                "name": "Ii",
+                "power": 8.8,
+                "percentage": 14.79
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.22,
+                "percentage": 0.37
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 11.77
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.84
+            },
+            {
+                "name": "Lemland",
+                "power": 2.4,
+                "percentage": 4.03
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 3.36
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 2.02
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 5.04
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 26.22
+            },
+            {
+                "name": "Pori",
+                "power": 13.0,
+                "percentage": 21.85
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.84
+            }
+        ]
+    },
+    "2004": {
+        "total_power": 88.72,
+        "municipalities": [
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 1.69
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 1.24
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.68
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 2.25
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 9.02
+            },
+            {
+                "name": "Huittinen",
+                "power": 0.075,
+                "percentage": 0.08
+            },
+            {
+                "name": "Ii",
+                "power": 8.8,
+                "percentage": 9.92
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.22,
+                "percentage": 0.25
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 7.89
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.56
+            },
+            {
+                "name": "Lemland",
+                "power": 2.4,
+                "percentage": 2.71
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 2.25
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 1.35
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 3.38
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 17.58
+            },
+            {
+                "name": "Pori",
+                "power": 13.0,
+                "percentage": 14.65
+            },
+            {
+                "name": "Raahe",
+                "power": 21.0,
+                "percentage": 23.67
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.225,
+                "percentage": 0.25
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.56
+            }
+        ]
+    },
+    "2005": {
+        "total_power": 132.105,
+        "municipalities": [
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 1.14
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.38
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.83
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.45
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 1.51
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 6.06
+            },
+            {
+                "name": "Huittinen",
+                "power": 0.075,
+                "percentage": 0.06
+            },
+            {
+                "name": "Ii",
+                "power": 8.8,
+                "percentage": 6.66
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.22,
+                "percentage": 0.17
+            },
+            {
+                "name": "Kemi",
+                "power": 42.0,
+                "percentage": 31.79
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 5.3
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.38
+            },
+            {
+                "name": "Lemland",
+                "power": 2.4,
+                "percentage": 1.82
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 1.51
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.91
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 2.27
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 11.81
+            },
+            {
+                "name": "Pori",
+                "power": 13.0,
+                "percentage": 9.84
+            },
+            {
+                "name": "Raahe",
+                "power": 21.0,
+                "percentage": 15.9
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.34
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.5
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.38
+            }
+        ]
+    },
+    "2006": {
+        "total_power": 136.105,
+        "municipalities": [
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 1.1
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.37
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.81
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.44
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 1.47
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 5.88
+            },
+            {
+                "name": "Huittinen",
+                "power": 0.075,
+                "percentage": 0.06
+            },
+            {
+                "name": "Ii",
+                "power": 8.8,
+                "percentage": 6.47
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.22,
+                "percentage": 0.16
+            },
+            {
+                "name": "Kemi",
+                "power": 42.0,
+                "percentage": 30.86
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 5.14
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.37
+            },
+            {
+                "name": "Lemland",
+                "power": 2.4,
+                "percentage": 1.76
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 1.47
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.88
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.73
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 2.2
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 11.46
+            },
+            {
+                "name": "Pori",
+                "power": 16.0,
+                "percentage": 11.76
+            },
+            {
+                "name": "Raahe",
+                "power": 21.0,
+                "percentage": 15.43
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.33
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.48
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.37
+            }
+        ]
+    },
+    "2007": {
+        "total_power": 158.105,
+        "municipalities": [
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.95
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.32
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.7
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.38
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 1.26
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 5.06
+            },
+            {
+                "name": "Huittinen",
+                "power": 0.075,
+                "percentage": 0.05
+            },
+            {
+                "name": "Ii",
+                "power": 8.8,
+                "percentage": 5.57
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.22,
+                "percentage": 0.14
+            },
+            {
+                "name": "Kemi",
+                "power": 42.0,
+                "percentage": 26.56
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 3.79
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 4.43
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.32
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 10.37
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 1.26
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.76
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.63
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 1.9
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 9.87
+            },
+            {
+                "name": "Pori",
+                "power": 18.0,
+                "percentage": 11.38
+            },
+            {
+                "name": "Raahe",
+                "power": 21.0,
+                "percentage": 13.28
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.28
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.42
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.32
+            }
+        ]
+    },
+    "2009": {
+        "total_power": 162.45499999999998,
+        "municipalities": [
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.37
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.92
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.31
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.68
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.37
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 1.23
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 4.92
+            },
+            {
+                "name": "Huittinen",
+                "power": 0.075,
+                "percentage": 0.05
+            },
+            {
+                "name": "Ii",
+                "power": 8.8,
+                "percentage": 5.42
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.22,
+                "percentage": 0.14
+            },
+            {
+                "name": "Kemi",
+                "power": 42.0,
+                "percentage": 25.85
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 3.69
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 4.31
+            },
+            {
+                "name": "Kurikka",
+                "power": 0.75,
+                "percentage": 0.46
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.31
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 10.1
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 1.23
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.74
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.62
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 1.85
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 9.6
+            },
+            {
+                "name": "Pori",
+                "power": 21.0,
+                "percentage": 12.93
+            },
+            {
+                "name": "Raahe",
+                "power": 21.0,
+                "percentage": 12.93
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.28
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.41
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.31
+            }
+        ]
+    },
+    "2010": {
+        "total_power": 257.955,
+        "municipalities": [
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.23
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.58
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.19
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.43
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.23
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.78
+            },
+            {
+                "name": "Hamina",
+                "power": 6.0,
+                "percentage": 2.33
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 3.1
+            },
+            {
+                "name": "Huittinen",
+                "power": 0.075,
+                "percentage": 0.03
+            },
+            {
+                "name": "Ii",
+                "power": 8.8,
+                "percentage": 3.41
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.22,
+                "percentage": 0.09
+            },
+            {
+                "name": "Kauhava",
+                "power": 0.5,
+                "percentage": 0.19
+            },
+            {
+                "name": "Kemi",
+                "power": 42.0,
+                "percentage": 16.28
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 2.33
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 2.71
+            },
+            {
+                "name": "Kurikka",
+                "power": 0.75,
+                "percentage": 0.29
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.19
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 6.36
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.78
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.47
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.39
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 1.16
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 6.05
+            },
+            {
+                "name": "Pori",
+                "power": 65.0,
+                "percentage": 25.2
+            },
+            {
+                "name": "Raahe",
+                "power": 21.0,
+                "percentage": 8.14
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.17
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.26
+            },
+            {
+                "name": "Tornio",
+                "power": 45.0,
+                "percentage": 17.44
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.19
+            }
+        ]
+    },
+    "2011": {
+        "total_power": 259.705,
+        "municipalities": [
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.23
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.58
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.19
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.42
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.23
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.77
+            },
+            {
+                "name": "Hamina",
+                "power": 6.0,
+                "percentage": 2.31
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 3.08
+            },
+            {
+                "name": "Huittinen",
+                "power": 0.075,
+                "percentage": 0.03
+            },
+            {
+                "name": "Ii",
+                "power": 8.8,
+                "percentage": 3.39
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.0,
+                "percentage": 0.39
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.97,
+                "percentage": 0.37
+            },
+            {
+                "name": "Kauhava",
+                "power": 0.5,
+                "percentage": 0.19
+            },
+            {
+                "name": "Kemi",
+                "power": 42.0,
+                "percentage": 16.17
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 2.31
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 2.7
+            },
+            {
+                "name": "Kurikka",
+                "power": 0.75,
+                "percentage": 0.29
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.19
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 6.31
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.77
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.46
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.39
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 1.16
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 6.01
+            },
+            {
+                "name": "Pori",
+                "power": 65.0,
+                "percentage": 25.03
+            },
+            {
+                "name": "Raahe",
+                "power": 21.0,
+                "percentage": 8.09
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.17
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.25
+            },
+            {
+                "name": "Tornio",
+                "power": 45.0,
+                "percentage": 17.33
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.19
+            }
+        ]
+    },
+    "2012": {
+        "total_power": 330.00500000000005,
+        "municipalities": [
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.18
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.45
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.15
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.15
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.33
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.18
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.61
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 4.24
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 2.42
+            },
+            {
+                "name": "Huittinen",
+                "power": 3.6750000000000003,
+                "percentage": 1.11
+            },
+            {
+                "name": "Ii",
+                "power": 42.8,
+                "percentage": 12.97
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.48
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.97,
+                "percentage": 0.29
+            },
+            {
+                "name": "Kauhava",
+                "power": 0.5,
+                "percentage": 0.15
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 13.33
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 1.82
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 2.12
+            },
+            {
+                "name": "Kurikka",
+                "power": 0.75,
+                "percentage": 0.23
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.15
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 4.97
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.61
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.36
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.3
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.91
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 4.73
+            },
+            {
+                "name": "Pori",
+                "power": 65.0,
+                "percentage": 19.7
+            },
+            {
+                "name": "Raahe",
+                "power": 21.0,
+                "percentage": 6.36
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.14
+            },
+            {
+                "name": "Simo",
+                "power": 18.0,
+                "percentage": 5.45
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.2
+            },
+            {
+                "name": "Tornio",
+                "power": 45.0,
+                "percentage": 13.64
+            },
+            {
+                "name": "Vaasa",
+                "power": 3.6,
+                "percentage": 1.09
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.15
+            }
+        ]
+    },
+    "2013": {
+        "total_power": 443.90500000000003,
+        "municipalities": [
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.14
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.34
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.11
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.11
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.25
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.14
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.45
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 3.15
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 1.8
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 1.03
+            },
+            {
+                "name": "Ii",
+                "power": 42.8,
+                "percentage": 9.64
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.36
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 0.2,
+                "percentage": 0.05
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.97,
+                "percentage": 0.22
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 22.0,
+                "percentage": 4.96
+            },
+            {
+                "name": "Kauhava",
+                "power": 0.5,
+                "percentage": 0.11
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 9.91
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 1.35
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 1.58
+            },
+            {
+                "name": "Kurikka",
+                "power": 0.75,
+                "percentage": 0.17
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.11
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 4.73
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 3.69
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.45
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.27
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.23
+            },
+            {
+                "name": "Merijärvi",
+                "power": 14.0,
+                "percentage": 3.15
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.68
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 3.51
+            },
+            {
+                "name": "Pori",
+                "power": 65.0,
+                "percentage": 14.64
+            },
+            {
+                "name": "Raahe",
+                "power": 42.0,
+                "percentage": 9.46
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.14
+            },
+            {
+                "name": "Salo",
+                "power": 0.6,
+                "percentage": 0.14
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.1
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.14
+            },
+            {
+                "name": "Simo",
+                "power": 18.0,
+                "percentage": 4.05
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.15
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 6.76
+            },
+            {
+                "name": "Teuva",
+                "power": 3.0,
+                "percentage": 0.68
+            },
+            {
+                "name": "Tornio",
+                "power": 45.0,
+                "percentage": 10.14
+            },
+            {
+                "name": "Vaasa",
+                "power": 3.6,
+                "percentage": 0.81
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.11
+            }
+        ]
+    },
+    "2014": {
+        "total_power": 648.405,
+        "municipalities": [
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.09
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.23
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.08
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.08
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.17
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.09
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.31
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 2.16
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 1.23
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 0.71
+            },
+            {
+                "name": "Ii",
+                "power": 42.8,
+                "percentage": 6.6
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.25
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 3.2,
+                "percentage": 0.49
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.97,
+                "percentage": 0.15
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 22.0,
+                "percentage": 3.39
+            },
+            {
+                "name": "Kauhajoki",
+                "power": 2.5,
+                "percentage": 0.39
+            },
+            {
+                "name": "Kauhava",
+                "power": 3.0,
+                "percentage": 0.46
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 6.79
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 0.93
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 1.08
+            },
+            {
+                "name": "Kurikka",
+                "power": 0.75,
+                "percentage": 0.12
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.08
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 3.24
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 2.53
+            },
+            {
+                "name": "Luhanka",
+                "power": 18.0,
+                "percentage": 2.78
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.31
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.19
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.15
+            },
+            {
+                "name": "Merijärvi",
+                "power": 14.0,
+                "percentage": 2.16
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.46
+            },
+            {
+                "name": "Närpiö",
+                "power": 15.0,
+                "percentage": 2.31
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 2.41
+            },
+            {
+                "name": "Pori",
+                "power": 119.0,
+                "percentage": 18.35
+            },
+            {
+                "name": "Raahe",
+                "power": 81.0,
+                "percentage": 12.49
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.09
+            },
+            {
+                "name": "Salo",
+                "power": 15.6,
+                "percentage": 2.41
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.07
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.09
+            },
+            {
+                "name": "Seinäjoki",
+                "power": 1.5,
+                "percentage": 0.23
+            },
+            {
+                "name": "Simo",
+                "power": 36.0,
+                "percentage": 5.55
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.1
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 4.63
+            },
+            {
+                "name": "Teuva",
+                "power": 3.0,
+                "percentage": 0.46
+            },
+            {
+                "name": "Tornio",
+                "power": 81.0,
+                "percentage": 12.49
+            },
+            {
+                "name": "Vaasa",
+                "power": 3.6,
+                "percentage": 0.56
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.08
+            }
+        ]
+    },
+    "2015": {
+        "total_power": 1216.405,
+        "municipalities": [
+            {
+                "name": "Alavieska",
+                "power": 19.8,
+                "percentage": 1.63
+            },
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.05
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.12
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.04
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.04
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.09
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.05
+            },
+            {
+                "name": "Haapajärvi",
+                "power": 29.1,
+                "percentage": 2.39
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.16
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 1.15
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 0.66
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 0.38
+            },
+            {
+                "name": "Ii",
+                "power": 116.0,
+                "percentage": 9.54
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.13
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 3.2,
+                "percentage": 0.26
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.97,
+                "percentage": 0.08
+            },
+            {
+                "name": "Kalajoki",
+                "power": 36.0,
+                "percentage": 2.96
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 22.0,
+                "percentage": 1.81
+            },
+            {
+                "name": "Kauhajoki",
+                "power": 2.5,
+                "percentage": 0.21
+            },
+            {
+                "name": "Kauhava",
+                "power": 3.0,
+                "percentage": 0.25
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 3.62
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 0.49
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 0.58
+            },
+            {
+                "name": "Kurikka",
+                "power": 0.75,
+                "percentage": 0.06
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.04
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 1.73
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 1.35
+            },
+            {
+                "name": "Luhanka",
+                "power": 18.0,
+                "percentage": 1.48
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.16
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.1
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.08
+            },
+            {
+                "name": "Merijärvi",
+                "power": 27.2,
+                "percentage": 2.24
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.25
+            },
+            {
+                "name": "Närpiö",
+                "power": 15.0,
+                "percentage": 1.23
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 1.28
+            },
+            {
+                "name": "Pori",
+                "power": 119.0,
+                "percentage": 9.78
+            },
+            {
+                "name": "Pyhäjoki",
+                "power": 33.0,
+                "percentage": 2.71
+            },
+            {
+                "name": "Raahe",
+                "power": 81.0,
+                "percentage": 6.66
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.05
+            },
+            {
+                "name": "Salo",
+                "power": 15.6,
+                "percentage": 1.28
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.04
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.05
+            },
+            {
+                "name": "Seinäjoki",
+                "power": 9.0,
+                "percentage": 0.74
+            },
+            {
+                "name": "Siikainen",
+                "power": 26.4,
+                "percentage": 2.17
+            },
+            {
+                "name": "Siikajoki",
+                "power": 24.3,
+                "percentage": 2.0
+            },
+            {
+                "name": "Simo",
+                "power": 232.0,
+                "percentage": 19.07
+            },
+            {
+                "name": "Sodankylä",
+                "power": 27.0,
+                "percentage": 2.22
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.05
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 2.47
+            },
+            {
+                "name": "Teuva",
+                "power": 3.0,
+                "percentage": 0.25
+            },
+            {
+                "name": "Tornio",
+                "power": 81.0,
+                "percentage": 6.66
+            },
+            {
+                "name": "Vaasa",
+                "power": 56.4,
+                "percentage": 4.64
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.04
+            },
+            {
+                "name": "Ylivieska",
+                "power": 29.7,
+                "percentage": 2.44
+            }
+        ]
+    },
+    "2016": {
+        "total_power": 1764.4050000000002,
+        "municipalities": [
+            {
+                "name": "Alavieska",
+                "power": 49.5,
+                "percentage": 2.81
+            },
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.09
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.03
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.03
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.06
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Haapajärvi",
+                "power": 29.1,
+                "percentage": 1.65
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.11
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 0.79
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 0.45
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 0.26
+            },
+            {
+                "name": "Hyrynsalmi",
+                "power": 30.0,
+                "percentage": 1.7
+            },
+            {
+                "name": "Ii",
+                "power": 116.0,
+                "percentage": 6.57
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.09
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 59.300000000000004,
+                "percentage": 3.36
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 0.97,
+                "percentage": 0.05
+            },
+            {
+                "name": "Jokioinen",
+                "power": 29.2,
+                "percentage": 1.65
+            },
+            {
+                "name": "Kalajoki",
+                "power": 207.9,
+                "percentage": 11.78
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 49.0,
+                "percentage": 2.78
+            },
+            {
+                "name": "Karvia",
+                "power": 24.0,
+                "percentage": 1.36
+            },
+            {
+                "name": "Kauhajoki",
+                "power": 25.0,
+                "percentage": 1.42
+            },
+            {
+                "name": "Kauhava",
+                "power": 3.0,
+                "percentage": 0.17
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 2.49
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 0.34
+            },
+            {
+                "name": "Kittilä",
+                "power": 51.0,
+                "percentage": 2.89
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 0.4
+            },
+            {
+                "name": "Kurikka",
+                "power": 0.75,
+                "percentage": 0.04
+            },
+            {
+                "name": "Kuusamo",
+                "power": 23.1,
+                "percentage": 1.31
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.03
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 1.19
+            },
+            {
+                "name": "Lapua",
+                "power": 21.0,
+                "percentage": 1.19
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 0.93
+            },
+            {
+                "name": "Luhanka",
+                "power": 18.0,
+                "percentage": 1.02
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.11
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.07
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.06
+            },
+            {
+                "name": "Merijärvi",
+                "power": 27.2,
+                "percentage": 1.54
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.17
+            },
+            {
+                "name": "Närpiö",
+                "power": 15.0,
+                "percentage": 0.85
+            },
+            {
+                "name": "Oulu",
+                "power": 15.6,
+                "percentage": 0.88
+            },
+            {
+                "name": "Perho",
+                "power": 27.0,
+                "percentage": 1.53
+            },
+            {
+                "name": "Pori",
+                "power": 119.0,
+                "percentage": 6.74
+            },
+            {
+                "name": "Pyhäjoki",
+                "power": 33.0,
+                "percentage": 1.87
+            },
+            {
+                "name": "Raahe",
+                "power": 114.0,
+                "percentage": 6.46
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Salo",
+                "power": 15.6,
+                "percentage": 0.88
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.03
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Seinäjoki",
+                "power": 9.0,
+                "percentage": 0.51
+            },
+            {
+                "name": "Siikainen",
+                "power": 26.4,
+                "percentage": 1.5
+            },
+            {
+                "name": "Siikajoki",
+                "power": 24.3,
+                "percentage": 1.38
+            },
+            {
+                "name": "Simo",
+                "power": 232.0,
+                "percentage": 13.15
+            },
+            {
+                "name": "Sodankylä",
+                "power": 27.0,
+                "percentage": 1.53
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.04
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 1.7
+            },
+            {
+                "name": "Teuva",
+                "power": 3.0,
+                "percentage": 0.17
+            },
+            {
+                "name": "Tornio",
+                "power": 81.0,
+                "percentage": 4.59
+            },
+            {
+                "name": "Vaasa",
+                "power": 56.4,
+                "percentage": 3.2
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.03
+            },
+            {
+                "name": "Vöyri",
+                "power": 2.5,
+                "percentage": 0.14
+            },
+            {
+                "name": "Ylivieska",
+                "power": 29.7,
+                "percentage": 1.68
+            }
+        ]
+    },
+    "2017": {
+        "total_power": 2352.5050000000006,
+        "municipalities": [
+            {
+                "name": "Alavieska",
+                "power": 49.5,
+                "percentage": 2.1
+            },
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.06
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.05
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Haapajärvi",
+                "power": 29.1,
+                "percentage": 1.24
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.09
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 0.6
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 0.34
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 0.19
+            },
+            {
+                "name": "Hyrynsalmi",
+                "power": 90.0,
+                "percentage": 3.83
+            },
+            {
+                "name": "Ii",
+                "power": 116.0,
+                "percentage": 4.93
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.07
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 59.300000000000004,
+                "percentage": 2.52
+            },
+            {
+                "name": "Isojoki",
+                "power": 57.0,
+                "percentage": 2.42
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 7.87,
+                "percentage": 0.33
+            },
+            {
+                "name": "Jokioinen",
+                "power": 29.2,
+                "percentage": 1.24
+            },
+            {
+                "name": "Jämijärvi",
+                "power": 27.0,
+                "percentage": 1.15
+            },
+            {
+                "name": "Kalajoki",
+                "power": 207.9,
+                "percentage": 8.84
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 49.0,
+                "percentage": 2.08
+            },
+            {
+                "name": "Karvia",
+                "power": 24.0,
+                "percentage": 1.02
+            },
+            {
+                "name": "Kauhajoki",
+                "power": 25.0,
+                "percentage": 1.06
+            },
+            {
+                "name": "Kauhava",
+                "power": 3.0,
+                "percentage": 0.13
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 1.87
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 0.26
+            },
+            {
+                "name": "Kittilä",
+                "power": 51.0,
+                "percentage": 2.17
+            },
+            {
+                "name": "Kokkola",
+                "power": 2.4,
+                "percentage": 0.1
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 0.3
+            },
+            {
+                "name": "Kristiinankaupunki",
+                "power": 120.5,
+                "percentage": 5.12
+            },
+            {
+                "name": "Kurikka",
+                "power": 0.75,
+                "percentage": 0.03
+            },
+            {
+                "name": "Kuusamo",
+                "power": 23.1,
+                "percentage": 0.98
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 0.89
+            },
+            {
+                "name": "Lapua",
+                "power": 25.2,
+                "percentage": 1.07
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 0.7
+            },
+            {
+                "name": "Leppävirta",
+                "power": 10.4,
+                "percentage": 0.44
+            },
+            {
+                "name": "Luhanka",
+                "power": 18.0,
+                "percentage": 0.77
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.09
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.05
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.04
+            },
+            {
+                "name": "Merijärvi",
+                "power": 27.2,
+                "percentage": 1.16
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.13
+            },
+            {
+                "name": "Närpiö",
+                "power": 15.0,
+                "percentage": 0.64
+            },
+            {
+                "name": "Oulu",
+                "power": 18.6,
+                "percentage": 0.79
+            },
+            {
+                "name": "Perho",
+                "power": 27.0,
+                "percentage": 1.15
+            },
+            {
+                "name": "Pori",
+                "power": 119.0,
+                "percentage": 5.06
+            },
+            {
+                "name": "Pyhäjoki",
+                "power": 59.4,
+                "percentage": 2.52
+            },
+            {
+                "name": "Raahe",
+                "power": 196.3,
+                "percentage": 8.34
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Salo",
+                "power": 15.6,
+                "percentage": 0.66
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.02
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Seinäjoki",
+                "power": 9.0,
+                "percentage": 0.38
+            },
+            {
+                "name": "Siikainen",
+                "power": 26.4,
+                "percentage": 1.12
+            },
+            {
+                "name": "Siikajoki",
+                "power": 24.3,
+                "percentage": 1.03
+            },
+            {
+                "name": "Simo",
+                "power": 280.0,
+                "percentage": 11.9
+            },
+            {
+                "name": "Sodankylä",
+                "power": 27.0,
+                "percentage": 1.15
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.03
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 1.28
+            },
+            {
+                "name": "Teuva",
+                "power": 127.0,
+                "percentage": 5.4
+            },
+            {
+                "name": "Tornio",
+                "power": 81.0,
+                "percentage": 3.44
+            },
+            {
+                "name": "Uusikaarlepyy",
+                "power": 7.0,
+                "percentage": 0.3
+            },
+            {
+                "name": "Uusikaupunki",
+                "power": 9.0,
+                "percentage": 0.38
+            },
+            {
+                "name": "Vaasa",
+                "power": 56.4,
+                "percentage": 2.4
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Vöyri",
+                "power": 2.5,
+                "percentage": 0.11
+            },
+            {
+                "name": "Ylivieska",
+                "power": 29.7,
+                "percentage": 1.26
+            }
+        ]
+    },
+    "2018": {
+        "total_power": 2366.9050000000007,
+        "municipalities": [
+            {
+                "name": "Alavieska",
+                "power": 49.5,
+                "percentage": 2.09
+            },
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.06
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.05
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Haapajärvi",
+                "power": 29.1,
+                "percentage": 1.23
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.08
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 0.59
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 0.34
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 0.19
+            },
+            {
+                "name": "Hyrynsalmi",
+                "power": 90.0,
+                "percentage": 3.8
+            },
+            {
+                "name": "Ii",
+                "power": 116.0,
+                "percentage": 4.9
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.07
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 59.300000000000004,
+                "percentage": 2.51
+            },
+            {
+                "name": "Isojoki",
+                "power": 57.0,
+                "percentage": 2.41
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 7.87,
+                "percentage": 0.33
+            },
+            {
+                "name": "Jokioinen",
+                "power": 29.2,
+                "percentage": 1.23
+            },
+            {
+                "name": "Jämijärvi",
+                "power": 27.0,
+                "percentage": 1.14
+            },
+            {
+                "name": "Kalajoki",
+                "power": 207.9,
+                "percentage": 8.78
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 49.0,
+                "percentage": 2.07
+            },
+            {
+                "name": "Karvia",
+                "power": 24.0,
+                "percentage": 1.01
+            },
+            {
+                "name": "Kauhajoki",
+                "power": 25.0,
+                "percentage": 1.06
+            },
+            {
+                "name": "Kauhava",
+                "power": 3.0,
+                "percentage": 0.13
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 1.86
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 0.25
+            },
+            {
+                "name": "Kittilä",
+                "power": 51.0,
+                "percentage": 2.15
+            },
+            {
+                "name": "Kokkola",
+                "power": 16.8,
+                "percentage": 0.71
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 0.3
+            },
+            {
+                "name": "Kristiinankaupunki",
+                "power": 120.5,
+                "percentage": 5.09
+            },
+            {
+                "name": "Kurikka",
+                "power": 0.75,
+                "percentage": 0.03
+            },
+            {
+                "name": "Kuusamo",
+                "power": 23.1,
+                "percentage": 0.98
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 0.89
+            },
+            {
+                "name": "Lapua",
+                "power": 25.2,
+                "percentage": 1.06
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 0.69
+            },
+            {
+                "name": "Leppävirta",
+                "power": 10.4,
+                "percentage": 0.44
+            },
+            {
+                "name": "Luhanka",
+                "power": 18.0,
+                "percentage": 0.76
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.08
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.05
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.04
+            },
+            {
+                "name": "Merijärvi",
+                "power": 27.2,
+                "percentage": 1.15
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.13
+            },
+            {
+                "name": "Närpiö",
+                "power": 15.0,
+                "percentage": 0.63
+            },
+            {
+                "name": "Oulu",
+                "power": 18.6,
+                "percentage": 0.79
+            },
+            {
+                "name": "Perho",
+                "power": 27.0,
+                "percentage": 1.14
+            },
+            {
+                "name": "Pori",
+                "power": 119.0,
+                "percentage": 5.03
+            },
+            {
+                "name": "Pyhäjoki",
+                "power": 59.4,
+                "percentage": 2.51
+            },
+            {
+                "name": "Raahe",
+                "power": 196.3,
+                "percentage": 8.29
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Salo",
+                "power": 15.6,
+                "percentage": 0.66
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.02
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Seinäjoki",
+                "power": 9.0,
+                "percentage": 0.38
+            },
+            {
+                "name": "Siikainen",
+                "power": 26.4,
+                "percentage": 1.12
+            },
+            {
+                "name": "Siikajoki",
+                "power": 24.3,
+                "percentage": 1.03
+            },
+            {
+                "name": "Simo",
+                "power": 280.0,
+                "percentage": 11.83
+            },
+            {
+                "name": "Sodankylä",
+                "power": 27.0,
+                "percentage": 1.14
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.03
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 1.27
+            },
+            {
+                "name": "Teuva",
+                "power": 127.0,
+                "percentage": 5.37
+            },
+            {
+                "name": "Tornio",
+                "power": 81.0,
+                "percentage": 3.42
+            },
+            {
+                "name": "Uusikaarlepyy",
+                "power": 7.0,
+                "percentage": 0.3
+            },
+            {
+                "name": "Uusikaupunki",
+                "power": 9.0,
+                "percentage": 0.38
+            },
+            {
+                "name": "Vaasa",
+                "power": 56.4,
+                "percentage": 2.38
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Vöyri",
+                "power": 2.5,
+                "percentage": 0.11
+            },
+            {
+                "name": "Ylivieska",
+                "power": 29.7,
+                "percentage": 1.25
+            }
+        ]
+    },
+    "2019": {
+        "total_power": 2446.9049999999997,
+        "municipalities": [
+            {
+                "name": "Alavieska",
+                "power": 49.5,
+                "percentage": 2.02
+            },
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.06
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.04
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Haapajärvi",
+                "power": 29.1,
+                "percentage": 1.19
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.08
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 0.57
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 0.33
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 0.19
+            },
+            {
+                "name": "Hyrynsalmi",
+                "power": 90.0,
+                "percentage": 3.68
+            },
+            {
+                "name": "Ii",
+                "power": 137.0,
+                "percentage": 5.6
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.07
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 59.300000000000004,
+                "percentage": 2.42
+            },
+            {
+                "name": "Isojoki",
+                "power": 57.0,
+                "percentage": 2.33
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 7.87,
+                "percentage": 0.32
+            },
+            {
+                "name": "Jokioinen",
+                "power": 29.2,
+                "percentage": 1.19
+            },
+            {
+                "name": "Jämijärvi",
+                "power": 27.0,
+                "percentage": 1.1
+            },
+            {
+                "name": "Kalajoki",
+                "power": 207.9,
+                "percentage": 8.5
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 49.0,
+                "percentage": 2.0
+            },
+            {
+                "name": "Kannus",
+                "power": 59.0,
+                "percentage": 2.41
+            },
+            {
+                "name": "Karvia",
+                "power": 24.0,
+                "percentage": 0.98
+            },
+            {
+                "name": "Kauhajoki",
+                "power": 25.0,
+                "percentage": 1.02
+            },
+            {
+                "name": "Kauhava",
+                "power": 3.0,
+                "percentage": 0.12
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 1.8
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 0.25
+            },
+            {
+                "name": "Kittilä",
+                "power": 51.0,
+                "percentage": 2.08
+            },
+            {
+                "name": "Kokkola",
+                "power": 16.8,
+                "percentage": 0.69
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 0.29
+            },
+            {
+                "name": "Kristiinankaupunki",
+                "power": 120.5,
+                "percentage": 4.92
+            },
+            {
+                "name": "Kurikka",
+                "power": 0.75,
+                "percentage": 0.03
+            },
+            {
+                "name": "Kuusamo",
+                "power": 23.1,
+                "percentage": 0.94
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 0.86
+            },
+            {
+                "name": "Lapua",
+                "power": 25.2,
+                "percentage": 1.03
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 0.67
+            },
+            {
+                "name": "Leppävirta",
+                "power": 10.4,
+                "percentage": 0.43
+            },
+            {
+                "name": "Luhanka",
+                "power": 18.0,
+                "percentage": 0.74
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.08
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.05
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.04
+            },
+            {
+                "name": "Merijärvi",
+                "power": 27.2,
+                "percentage": 1.11
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.12
+            },
+            {
+                "name": "Närpiö",
+                "power": 15.0,
+                "percentage": 0.61
+            },
+            {
+                "name": "Oulu",
+                "power": 18.6,
+                "percentage": 0.76
+            },
+            {
+                "name": "Perho",
+                "power": 27.0,
+                "percentage": 1.1
+            },
+            {
+                "name": "Pori",
+                "power": 119.0,
+                "percentage": 4.86
+            },
+            {
+                "name": "Pyhäjoki",
+                "power": 59.4,
+                "percentage": 2.43
+            },
+            {
+                "name": "Raahe",
+                "power": 196.3,
+                "percentage": 8.02
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Salo",
+                "power": 15.6,
+                "percentage": 0.64
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.02
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Seinäjoki",
+                "power": 9.0,
+                "percentage": 0.37
+            },
+            {
+                "name": "Siikainen",
+                "power": 26.4,
+                "percentage": 1.08
+            },
+            {
+                "name": "Siikajoki",
+                "power": 24.3,
+                "percentage": 0.99
+            },
+            {
+                "name": "Simo",
+                "power": 280.0,
+                "percentage": 11.44
+            },
+            {
+                "name": "Sodankylä",
+                "power": 27.0,
+                "percentage": 1.1
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.03
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 1.23
+            },
+            {
+                "name": "Teuva",
+                "power": 127.0,
+                "percentage": 5.19
+            },
+            {
+                "name": "Tornio",
+                "power": 81.0,
+                "percentage": 3.31
+            },
+            {
+                "name": "Uusikaarlepyy",
+                "power": 7.0,
+                "percentage": 0.29
+            },
+            {
+                "name": "Uusikaupunki",
+                "power": 9.0,
+                "percentage": 0.37
+            },
+            {
+                "name": "Vaasa",
+                "power": 56.4,
+                "percentage": 2.3
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Vöyri",
+                "power": 2.5,
+                "percentage": 0.1
+            },
+            {
+                "name": "Ylivieska",
+                "power": 29.7,
+                "percentage": 1.21
+            }
+        ]
+    },
+    "2020": {
+        "total_power": 2837.705,
+        "municipalities": [
+            {
+                "name": "Alavieska",
+                "power": 49.5,
+                "percentage": 1.74
+            },
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.05
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.04
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Haapajärvi",
+                "power": 29.1,
+                "percentage": 1.03
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.07
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 0.49
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 0.28
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 0.16
+            },
+            {
+                "name": "Hyrynsalmi",
+                "power": 90.0,
+                "percentage": 3.17
+            },
+            {
+                "name": "Ii",
+                "power": 137.0,
+                "percentage": 4.83
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.06
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 59.300000000000004,
+                "percentage": 2.09
+            },
+            {
+                "name": "Isojoki",
+                "power": 57.0,
+                "percentage": 2.01
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 7.87,
+                "percentage": 0.28
+            },
+            {
+                "name": "Jokioinen",
+                "power": 29.2,
+                "percentage": 1.03
+            },
+            {
+                "name": "Jämijärvi",
+                "power": 27.0,
+                "percentage": 0.95
+            },
+            {
+                "name": "Kalajoki",
+                "power": 207.9,
+                "percentage": 7.33
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 49.0,
+                "percentage": 1.73
+            },
+            {
+                "name": "Kannus",
+                "power": 59.0,
+                "percentage": 2.08
+            },
+            {
+                "name": "Karvia",
+                "power": 24.0,
+                "percentage": 0.85
+            },
+            {
+                "name": "Kauhajoki",
+                "power": 25.0,
+                "percentage": 0.88
+            },
+            {
+                "name": "Kauhava",
+                "power": 3.0,
+                "percentage": 0.11
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 1.55
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 0.21
+            },
+            {
+                "name": "Kittilä",
+                "power": 51.0,
+                "percentage": 1.8
+            },
+            {
+                "name": "Kokkola",
+                "power": 16.8,
+                "percentage": 0.59
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 0.25
+            },
+            {
+                "name": "Kristiinankaupunki",
+                "power": 120.5,
+                "percentage": 4.25
+            },
+            {
+                "name": "Kurikka",
+                "power": 30.85,
+                "percentage": 1.09
+            },
+            {
+                "name": "Kuusamo",
+                "power": 23.1,
+                "percentage": 0.81
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 0.74
+            },
+            {
+                "name": "Lapua",
+                "power": 25.2,
+                "percentage": 0.89
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 0.58
+            },
+            {
+                "name": "Leppävirta",
+                "power": 10.4,
+                "percentage": 0.37
+            },
+            {
+                "name": "Liminka",
+                "power": 19.2,
+                "percentage": 0.68
+            },
+            {
+                "name": "Luhanka",
+                "power": 18.0,
+                "percentage": 0.63
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.07
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.04
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.04
+            },
+            {
+                "name": "Maalahti",
+                "power": 52.5,
+                "percentage": 1.85
+            },
+            {
+                "name": "Marttila",
+                "power": 27.0,
+                "percentage": 0.95
+            },
+            {
+                "name": "Merijärvi",
+                "power": 27.2,
+                "percentage": 0.96
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.11
+            },
+            {
+                "name": "Närpiö",
+                "power": 186.0,
+                "percentage": 6.55
+            },
+            {
+                "name": "Oulu",
+                "power": 18.6,
+                "percentage": 0.66
+            },
+            {
+                "name": "Perho",
+                "power": 27.0,
+                "percentage": 0.95
+            },
+            {
+                "name": "Pori",
+                "power": 119.0,
+                "percentage": 4.19
+            },
+            {
+                "name": "Pyhäjoki",
+                "power": 150.4,
+                "percentage": 5.3
+            },
+            {
+                "name": "Raahe",
+                "power": 196.3,
+                "percentage": 6.92
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Salo",
+                "power": 15.6,
+                "percentage": 0.55
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.02
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Seinäjoki",
+                "power": 9.0,
+                "percentage": 0.32
+            },
+            {
+                "name": "Siikainen",
+                "power": 26.4,
+                "percentage": 0.93
+            },
+            {
+                "name": "Siikajoki",
+                "power": 24.3,
+                "percentage": 0.86
+            },
+            {
+                "name": "Simo",
+                "power": 280.0,
+                "percentage": 9.87
+            },
+            {
+                "name": "Sodankylä",
+                "power": 27.0,
+                "percentage": 0.95
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.02
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 1.06
+            },
+            {
+                "name": "Teuva",
+                "power": 127.0,
+                "percentage": 4.48
+            },
+            {
+                "name": "Tornio",
+                "power": 81.0,
+                "percentage": 2.85
+            },
+            {
+                "name": "Uusikaarlepyy",
+                "power": 7.0,
+                "percentage": 0.25
+            },
+            {
+                "name": "Uusikaupunki",
+                "power": 9.0,
+                "percentage": 0.32
+            },
+            {
+                "name": "Vaasa",
+                "power": 56.4,
+                "percentage": 1.99
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Vöyri",
+                "power": 2.5,
+                "percentage": 0.09
+            },
+            {
+                "name": "Ylivieska",
+                "power": 29.7,
+                "percentage": 1.05
+            }
+        ]
+    },
+    "2021": {
+        "total_power": 3331.4049999999997,
+        "municipalities": [
+            {
+                "name": "Alavieska",
+                "power": 49.5,
+                "percentage": 1.49
+            },
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.05
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.03
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Haapajärvi",
+                "power": 132.3,
+                "percentage": 3.97
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.06
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 0.42
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 0.24
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 0.14
+            },
+            {
+                "name": "Hyrynsalmi",
+                "power": 90.0,
+                "percentage": 2.7
+            },
+            {
+                "name": "Ii",
+                "power": 137.0,
+                "percentage": 4.11
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.05
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 59.300000000000004,
+                "percentage": 1.78
+            },
+            {
+                "name": "Isojoki",
+                "power": 57.0,
+                "percentage": 1.71
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 7.87,
+                "percentage": 0.24
+            },
+            {
+                "name": "Jokioinen",
+                "power": 29.2,
+                "percentage": 0.88
+            },
+            {
+                "name": "Jämijärvi",
+                "power": 27.0,
+                "percentage": 0.81
+            },
+            {
+                "name": "Kajaani",
+                "power": 211.0,
+                "percentage": 6.33
+            },
+            {
+                "name": "Kalajoki",
+                "power": 207.9,
+                "percentage": 6.24
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 49.0,
+                "percentage": 1.47
+            },
+            {
+                "name": "Kannus",
+                "power": 59.0,
+                "percentage": 1.77
+            },
+            {
+                "name": "Karvia",
+                "power": 24.0,
+                "percentage": 0.72
+            },
+            {
+                "name": "Kauhajoki",
+                "power": 62.8,
+                "percentage": 1.89
+            },
+            {
+                "name": "Kauhava",
+                "power": 3.0,
+                "percentage": 0.09
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 1.32
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 0.18
+            },
+            {
+                "name": "Kittilä",
+                "power": 51.0,
+                "percentage": 1.53
+            },
+            {
+                "name": "Kokkola",
+                "power": 16.8,
+                "percentage": 0.5
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 0.21
+            },
+            {
+                "name": "Kristiinankaupunki",
+                "power": 120.5,
+                "percentage": 3.62
+            },
+            {
+                "name": "Kurikka",
+                "power": 30.85,
+                "percentage": 0.93
+            },
+            {
+                "name": "Kuusamo",
+                "power": 23.1,
+                "percentage": 0.69
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 0.63
+            },
+            {
+                "name": "Lapua",
+                "power": 25.2,
+                "percentage": 0.76
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 0.49
+            },
+            {
+                "name": "Leppävirta",
+                "power": 10.4,
+                "percentage": 0.31
+            },
+            {
+                "name": "Liminka",
+                "power": 19.2,
+                "percentage": 0.58
+            },
+            {
+                "name": "Luhanka",
+                "power": 18.0,
+                "percentage": 0.54
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.06
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.04
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.03
+            },
+            {
+                "name": "Maalahti",
+                "power": 52.5,
+                "percentage": 1.58
+            },
+            {
+                "name": "Marttila",
+                "power": 27.0,
+                "percentage": 0.81
+            },
+            {
+                "name": "Merijärvi",
+                "power": 27.2,
+                "percentage": 0.82
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.09
+            },
+            {
+                "name": "Närpiö",
+                "power": 186.0,
+                "percentage": 5.58
+            },
+            {
+                "name": "Oulu",
+                "power": 18.6,
+                "percentage": 0.56
+            },
+            {
+                "name": "Perho",
+                "power": 27.0,
+                "percentage": 0.81
+            },
+            {
+                "name": "Pihtipudas",
+                "power": 30.0,
+                "percentage": 0.9
+            },
+            {
+                "name": "Pori",
+                "power": 119.0,
+                "percentage": 3.57
+            },
+            {
+                "name": "Pyhäjoki",
+                "power": 171.9,
+                "percentage": 5.16
+            },
+            {
+                "name": "Raahe",
+                "power": 196.3,
+                "percentage": 5.89
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Salo",
+                "power": 15.6,
+                "percentage": 0.47
+            },
+            {
+                "name": "Sastamala",
+                "power": 0.45,
+                "percentage": 0.01
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Seinäjoki",
+                "power": 9.0,
+                "percentage": 0.27
+            },
+            {
+                "name": "Sievi",
+                "power": 30.0,
+                "percentage": 0.9
+            },
+            {
+                "name": "Siikainen",
+                "power": 26.4,
+                "percentage": 0.79
+            },
+            {
+                "name": "Siikajoki",
+                "power": 24.3,
+                "percentage": 0.73
+            },
+            {
+                "name": "Simo",
+                "power": 280.0,
+                "percentage": 8.4
+            },
+            {
+                "name": "Sodankylä",
+                "power": 27.0,
+                "percentage": 0.81
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.02
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 0.9
+            },
+            {
+                "name": "Teuva",
+                "power": 127.0,
+                "percentage": 3.81
+            },
+            {
+                "name": "Tornio",
+                "power": 81.0,
+                "percentage": 2.43
+            },
+            {
+                "name": "Uusikaarlepyy",
+                "power": 37.1,
+                "percentage": 1.11
+            },
+            {
+                "name": "Uusikaupunki",
+                "power": 9.0,
+                "percentage": 0.27
+            },
+            {
+                "name": "Vaasa",
+                "power": 56.4,
+                "percentage": 1.69
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Vöyri",
+                "power": 32.6,
+                "percentage": 0.98
+            },
+            {
+                "name": "Ylivieska",
+                "power": 29.7,
+                "percentage": 0.89
+            }
+        ]
+    },
+    "2022": {
+        "total_power": 5226.605,
+        "municipalities": [
+            {
+                "name": "Alavieska",
+                "power": 49.5,
+                "percentage": 0.95
+            },
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Eckerö",
+                "power": 42.0,
+                "percentage": 0.8
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.03
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.02
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Haapajärvi",
+                "power": 132.3,
+                "percentage": 2.53
+            },
+            {
+                "name": "Haapavesi",
+                "power": 90.0,
+                "percentage": 1.72
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.04
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 0.27
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 0.15
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 0.09
+            },
+            {
+                "name": "Humppila",
+                "power": 26.0,
+                "percentage": 0.5
+            },
+            {
+                "name": "Hyrynsalmi",
+                "power": 90.0,
+                "percentage": 1.72
+            },
+            {
+                "name": "Ii",
+                "power": 137.0,
+                "percentage": 2.62
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.03
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 59.300000000000004,
+                "percentage": 1.13
+            },
+            {
+                "name": "Isojoki",
+                "power": 143.0,
+                "percentage": 2.74
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 7.87,
+                "percentage": 0.15
+            },
+            {
+                "name": "Jokioinen",
+                "power": 29.2,
+                "percentage": 0.56
+            },
+            {
+                "name": "Jämijärvi",
+                "power": 27.0,
+                "percentage": 0.52
+            },
+            {
+                "name": "Kajaani",
+                "power": 211.0,
+                "percentage": 4.04
+            },
+            {
+                "name": "Kalajoki",
+                "power": 651.9,
+                "percentage": 12.47
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 49.0,
+                "percentage": 0.94
+            },
+            {
+                "name": "Kannus",
+                "power": 59.0,
+                "percentage": 1.13
+            },
+            {
+                "name": "Karstula",
+                "power": 43.2,
+                "percentage": 0.83
+            },
+            {
+                "name": "Karvia",
+                "power": 24.0,
+                "percentage": 0.46
+            },
+            {
+                "name": "Kauhajoki",
+                "power": 62.8,
+                "percentage": 1.2
+            },
+            {
+                "name": "Kauhava",
+                "power": 3.0,
+                "percentage": 0.06
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 0.84
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 0.11
+            },
+            {
+                "name": "Kittilä",
+                "power": 51.0,
+                "percentage": 0.98
+            },
+            {
+                "name": "Kokkola",
+                "power": 16.8,
+                "percentage": 0.32
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 0.13
+            },
+            {
+                "name": "Kristiinankaupunki",
+                "power": 370.5,
+                "percentage": 7.09
+            },
+            {
+                "name": "Kurikka",
+                "power": 156.85,
+                "percentage": 3.0
+            },
+            {
+                "name": "Kuusamo",
+                "power": 23.1,
+                "percentage": 0.44
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 0.4
+            },
+            {
+                "name": "Lapua",
+                "power": 25.2,
+                "percentage": 0.48
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 0.31
+            },
+            {
+                "name": "Leppävirta",
+                "power": 10.4,
+                "percentage": 0.2
+            },
+            {
+                "name": "Liminka",
+                "power": 19.2,
+                "percentage": 0.37
+            },
+            {
+                "name": "Luhanka",
+                "power": 18.0,
+                "percentage": 0.34
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.04
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.02
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.02
+            },
+            {
+                "name": "Maalahti",
+                "power": 81.5,
+                "percentage": 1.56
+            },
+            {
+                "name": "Marttila",
+                "power": 27.0,
+                "percentage": 0.52
+            },
+            {
+                "name": "Merijärvi",
+                "power": 27.2,
+                "percentage": 0.52
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.06
+            },
+            {
+                "name": "Närpiö",
+                "power": 288.0,
+                "percentage": 5.51
+            },
+            {
+                "name": "Oulu",
+                "power": 18.6,
+                "percentage": 0.36
+            },
+            {
+                "name": "Perho",
+                "power": 27.0,
+                "percentage": 0.52
+            },
+            {
+                "name": "Pihtipudas",
+                "power": 30.0,
+                "percentage": 0.57
+            },
+            {
+                "name": "Pori",
+                "power": 119.0,
+                "percentage": 2.28
+            },
+            {
+                "name": "Posio",
+                "power": 126.0,
+                "percentage": 2.41
+            },
+            {
+                "name": "Pyhäjoki",
+                "power": 372.9,
+                "percentage": 7.13
+            },
+            {
+                "name": "Raahe",
+                "power": 264.3,
+                "percentage": 5.06
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Salo",
+                "power": 15.6,
+                "percentage": 0.3
+            },
+            {
+                "name": "Sastamala",
+                "power": 13.45,
+                "percentage": 0.26
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Seinäjoki",
+                "power": 9.0,
+                "percentage": 0.17
+            },
+            {
+                "name": "Sievi",
+                "power": 74.0,
+                "percentage": 1.42
+            },
+            {
+                "name": "Siikainen",
+                "power": 26.4,
+                "percentage": 0.51
+            },
+            {
+                "name": "Siikajoki",
+                "power": 24.3,
+                "percentage": 0.46
+            },
+            {
+                "name": "Siikalatva",
+                "power": 43.0,
+                "percentage": 0.82
+            },
+            {
+                "name": "Simo",
+                "power": 280.0,
+                "percentage": 5.36
+            },
+            {
+                "name": "Sodankylä",
+                "power": 27.0,
+                "percentage": 0.52
+            },
+            {
+                "name": "Soini",
+                "power": 30.0,
+                "percentage": 0.57
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.01
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 0.57
+            },
+            {
+                "name": "Teuva",
+                "power": 127.0,
+                "percentage": 2.43
+            },
+            {
+                "name": "Tornio",
+                "power": 81.0,
+                "percentage": 1.55
+            },
+            {
+                "name": "Uusikaarlepyy",
+                "power": 37.1,
+                "percentage": 0.71
+            },
+            {
+                "name": "Uusikaupunki",
+                "power": 9.0,
+                "percentage": 0.17
+            },
+            {
+                "name": "Vaala",
+                "power": 132.0,
+                "percentage": 2.53
+            },
+            {
+                "name": "Vaasa",
+                "power": 56.4,
+                "percentage": 1.08
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Vöyri",
+                "power": 32.6,
+                "percentage": 0.62
+            },
+            {
+                "name": "Ylivieska",
+                "power": 29.7,
+                "percentage": 0.57
+            }
+        ]
+    },
+    "2023": {
+        "total_power": 6598.405000000001,
+        "municipalities": [
+            {
+                "name": "Alajärvi",
+                "power": 221.0,
+                "percentage": 3.35
+            },
+            {
+                "name": "Alavieska",
+                "power": 49.5,
+                "percentage": 0.75
+            },
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Eckerö",
+                "power": 42.0,
+                "percentage": 0.64
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.02
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Haapajärvi",
+                "power": 132.3,
+                "percentage": 2.01
+            },
+            {
+                "name": "Haapavesi",
+                "power": 90.0,
+                "percentage": 1.36
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.03
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 0.21
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 0.12
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 0.07
+            },
+            {
+                "name": "Humppila",
+                "power": 26.0,
+                "percentage": 0.39
+            },
+            {
+                "name": "Hyrynsalmi",
+                "power": 166.0,
+                "percentage": 2.52
+            },
+            {
+                "name": "Ii",
+                "power": 137.0,
+                "percentage": 2.08
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 59.300000000000004,
+                "percentage": 0.9
+            },
+            {
+                "name": "Isojoki",
+                "power": 176.0,
+                "percentage": 2.67
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 7.87,
+                "percentage": 0.12
+            },
+            {
+                "name": "Jokioinen",
+                "power": 29.2,
+                "percentage": 0.44
+            },
+            {
+                "name": "Jämijärvi",
+                "power": 27.0,
+                "percentage": 0.41
+            },
+            {
+                "name": "Kajaani",
+                "power": 211.0,
+                "percentage": 3.2
+            },
+            {
+                "name": "Kalajoki",
+                "power": 771.6,
+                "percentage": 11.69
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 49.0,
+                "percentage": 0.74
+            },
+            {
+                "name": "Kannus",
+                "power": 107.0,
+                "percentage": 1.62
+            },
+            {
+                "name": "Karstula",
+                "power": 43.2,
+                "percentage": 0.65
+            },
+            {
+                "name": "Karvia",
+                "power": 54.0,
+                "percentage": 0.82
+            },
+            {
+                "name": "Kauhajoki",
+                "power": 62.8,
+                "percentage": 0.95
+            },
+            {
+                "name": "Kauhava",
+                "power": 3.0,
+                "percentage": 0.05
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 0.67
+            },
+            {
+                "name": "Kemijärvi",
+                "power": 96.7,
+                "percentage": 1.47
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 0.09
+            },
+            {
+                "name": "Kinnula",
+                "power": 45.6,
+                "percentage": 0.69
+            },
+            {
+                "name": "Kittilä",
+                "power": 51.0,
+                "percentage": 0.77
+            },
+            {
+                "name": "Kokkola",
+                "power": 16.8,
+                "percentage": 0.25
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 0.11
+            },
+            {
+                "name": "Kristiinankaupunki",
+                "power": 426.5,
+                "percentage": 6.46
+            },
+            {
+                "name": "Kurikka",
+                "power": 156.85,
+                "percentage": 2.38
+            },
+            {
+                "name": "Kuusamo",
+                "power": 23.1,
+                "percentage": 0.35
+            },
+            {
+                "name": "Kyyjärvi",
+                "power": 45.6,
+                "percentage": 0.69
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 0.32
+            },
+            {
+                "name": "Lapua",
+                "power": 25.2,
+                "percentage": 0.38
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 0.25
+            },
+            {
+                "name": "Leppävirta",
+                "power": 10.4,
+                "percentage": 0.16
+            },
+            {
+                "name": "Liminka",
+                "power": 19.2,
+                "percentage": 0.29
+            },
+            {
+                "name": "Luhanka",
+                "power": 18.0,
+                "percentage": 0.27
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.03
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.02
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.02
+            },
+            {
+                "name": "Maalahti",
+                "power": 81.5,
+                "percentage": 1.24
+            },
+            {
+                "name": "Marttila",
+                "power": 27.0,
+                "percentage": 0.41
+            },
+            {
+                "name": "Merijärvi",
+                "power": 27.2,
+                "percentage": 0.41
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.05
+            },
+            {
+                "name": "Mustasaari",
+                "power": 83.0,
+                "percentage": 1.26
+            },
+            {
+                "name": "Närpiö",
+                "power": 288.0,
+                "percentage": 4.36
+            },
+            {
+                "name": "Oulu",
+                "power": 18.6,
+                "percentage": 0.28
+            },
+            {
+                "name": "Perho",
+                "power": 27.0,
+                "percentage": 0.41
+            },
+            {
+                "name": "Pihtipudas",
+                "power": 30.0,
+                "percentage": 0.45
+            },
+            {
+                "name": "Pori",
+                "power": 119.0,
+                "percentage": 1.8
+            },
+            {
+                "name": "Posio",
+                "power": 126.0,
+                "percentage": 1.91
+            },
+            {
+                "name": "Pyhäjoki",
+                "power": 560.9,
+                "percentage": 8.5
+            },
+            {
+                "name": "Pyhäjärvi",
+                "power": 93.0,
+                "percentage": 1.41
+            },
+            {
+                "name": "Raahe",
+                "power": 264.3,
+                "percentage": 4.01
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Saarijärvi",
+                "power": 67.5,
+                "percentage": 1.02
+            },
+            {
+                "name": "Salo",
+                "power": 15.6,
+                "percentage": 0.24
+            },
+            {
+                "name": "Sastamala",
+                "power": 13.45,
+                "percentage": 0.2
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Seinäjoki",
+                "power": 9.0,
+                "percentage": 0.14
+            },
+            {
+                "name": "Sievi",
+                "power": 74.0,
+                "percentage": 1.12
+            },
+            {
+                "name": "Siikainen",
+                "power": 26.4,
+                "percentage": 0.4
+            },
+            {
+                "name": "Siikajoki",
+                "power": 146.3,
+                "percentage": 2.22
+            },
+            {
+                "name": "Siikalatva",
+                "power": 43.0,
+                "percentage": 0.65
+            },
+            {
+                "name": "Simo",
+                "power": 280.0,
+                "percentage": 4.24
+            },
+            {
+                "name": "Sodankylä",
+                "power": 27.0,
+                "percentage": 0.41
+            },
+            {
+                "name": "Soini",
+                "power": 30.0,
+                "percentage": 0.45
+            },
+            {
+                "name": "Somero",
+                "power": 17.2,
+                "percentage": 0.26
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.01
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 0.45
+            },
+            {
+                "name": "Teuva",
+                "power": 127.0,
+                "percentage": 1.92
+            },
+            {
+                "name": "Tornio",
+                "power": 81.0,
+                "percentage": 1.23
+            },
+            {
+                "name": "Uusikaarlepyy",
+                "power": 37.1,
+                "percentage": 0.56
+            },
+            {
+                "name": "Uusikaupunki",
+                "power": 9.0,
+                "percentage": 0.14
+            },
+            {
+                "name": "Vaala",
+                "power": 132.0,
+                "percentage": 2.0
+            },
+            {
+                "name": "Vaasa",
+                "power": 56.4,
+                "percentage": 0.85
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Vöyri",
+                "power": 62.1,
+                "percentage": 0.94
+            },
+            {
+                "name": "Ylivieska",
+                "power": 29.7,
+                "percentage": 0.45
+            }
+        ]
+    },
+    "2024": {
+        "total_power": 8362.605,
+        "municipalities": [
+            {
+                "name": "Alajärvi",
+                "power": 221.0,
+                "percentage": 2.64
+            },
+            {
+                "name": "Alavieska",
+                "power": 49.5,
+                "percentage": 0.59
+            },
+            {
+                "name": "Alavus",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Eckerö",
+                "power": 42.0,
+                "percentage": 0.5
+            },
+            {
+                "name": "Enontekiö",
+                "power": 1.5,
+                "percentage": 0.02
+            },
+            {
+                "name": "Eura",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Eurajoki",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Finström",
+                "power": 1.1,
+                "percentage": 0.01
+            },
+            {
+                "name": "Föglö",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Haapajärvi",
+                "power": 219.1,
+                "percentage": 2.62
+            },
+            {
+                "name": "Haapavesi",
+                "power": 90.0,
+                "percentage": 1.08
+            },
+            {
+                "name": "Hailuoto",
+                "power": 2.0,
+                "percentage": 0.02
+            },
+            {
+                "name": "Hamina",
+                "power": 14.0,
+                "percentage": 0.17
+            },
+            {
+                "name": "Hanko",
+                "power": 8.0,
+                "percentage": 0.1
+            },
+            {
+                "name": "Huittinen",
+                "power": 4.575,
+                "percentage": 0.05
+            },
+            {
+                "name": "Humppila",
+                "power": 26.0,
+                "percentage": 0.31
+            },
+            {
+                "name": "Hyrynsalmi",
+                "power": 166.0,
+                "percentage": 1.99
+            },
+            {
+                "name": "Ii",
+                "power": 237.3,
+                "percentage": 2.84
+            },
+            {
+                "name": "Ikaalinen",
+                "power": 1.6,
+                "percentage": 0.02
+            },
+            {
+                "name": "Ilmajoki",
+                "power": 59.300000000000004,
+                "percentage": 0.71
+            },
+            {
+                "name": "Isojoki",
+                "power": 176.0,
+                "percentage": 2.1
+            },
+            {
+                "name": "Jalasjärvi",
+                "power": 7.87,
+                "percentage": 0.09
+            },
+            {
+                "name": "Jokioinen",
+                "power": 29.2,
+                "percentage": 0.35
+            },
+            {
+                "name": "Jämijärvi",
+                "power": 27.0,
+                "percentage": 0.32
+            },
+            {
+                "name": "Kajaani",
+                "power": 211.0,
+                "percentage": 2.52
+            },
+            {
+                "name": "Kalajoki",
+                "power": 771.6,
+                "percentage": 9.23
+            },
+            {
+                "name": "Kankaanpää",
+                "power": 49.0,
+                "percentage": 0.59
+            },
+            {
+                "name": "Kannus",
+                "power": 107.0,
+                "percentage": 1.28
+            },
+            {
+                "name": "Karstula",
+                "power": 102.7,
+                "percentage": 1.23
+            },
+            {
+                "name": "Karvia",
+                "power": 54.0,
+                "percentage": 0.65
+            },
+            {
+                "name": "Kauhajoki",
+                "power": 62.8,
+                "percentage": 0.75
+            },
+            {
+                "name": "Kauhava",
+                "power": 3.0,
+                "percentage": 0.04
+            },
+            {
+                "name": "Kemi",
+                "power": 44.0,
+                "percentage": 0.53
+            },
+            {
+                "name": "Kemijärvi",
+                "power": 96.7,
+                "percentage": 1.16
+            },
+            {
+                "name": "Kemiönsaari",
+                "power": 6.0,
+                "percentage": 0.07
+            },
+            {
+                "name": "Kinnula",
+                "power": 45.6,
+                "percentage": 0.55
+            },
+            {
+                "name": "Kittilä",
+                "power": 51.0,
+                "percentage": 0.61
+            },
+            {
+                "name": "Kokkola",
+                "power": 16.8,
+                "percentage": 0.2
+            },
+            {
+                "name": "Kotka",
+                "power": 7.0,
+                "percentage": 0.08
+            },
+            {
+                "name": "Kristiinankaupunki",
+                "power": 936.5,
+                "percentage": 11.2
+            },
+            {
+                "name": "Kurikka",
+                "power": 470.35,
+                "percentage": 5.62
+            },
+            {
+                "name": "Kuusamo",
+                "power": 23.1,
+                "percentage": 0.28
+            },
+            {
+                "name": "Kyyjärvi",
+                "power": 90.6,
+                "percentage": 1.08
+            },
+            {
+                "name": "Kökar",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Lappeenranta",
+                "power": 21.0,
+                "percentage": 0.25
+            },
+            {
+                "name": "Lapua",
+                "power": 25.2,
+                "percentage": 0.3
+            },
+            {
+                "name": "Lemland",
+                "power": 16.4,
+                "percentage": 0.2
+            },
+            {
+                "name": "Leppävirta",
+                "power": 10.4,
+                "percentage": 0.12
+            },
+            {
+                "name": "Liminka",
+                "power": 19.2,
+                "percentage": 0.23
+            },
+            {
+                "name": "Luhanka",
+                "power": 18.0,
+                "percentage": 0.22
+            },
+            {
+                "name": "Lumijoki",
+                "power": 2.0,
+                "percentage": 0.02
+            },
+            {
+                "name": "Lumparland",
+                "power": 1.2,
+                "percentage": 0.01
+            },
+            {
+                "name": "Luoto",
+                "power": 1.0,
+                "percentage": 0.01
+            },
+            {
+                "name": "Maalahti",
+                "power": 81.5,
+                "percentage": 0.97
+            },
+            {
+                "name": "Marttila",
+                "power": 27.0,
+                "percentage": 0.32
+            },
+            {
+                "name": "Merijärvi",
+                "power": 27.2,
+                "percentage": 0.33
+            },
+            {
+                "name": "Muonio",
+                "power": 3.0,
+                "percentage": 0.04
+            },
+            {
+                "name": "Mustasaari",
+                "power": 83.0,
+                "percentage": 0.99
+            },
+            {
+                "name": "Närpiö",
+                "power": 328.4,
+                "percentage": 3.93
+            },
+            {
+                "name": "Oulainen",
+                "power": 188.8,
+                "percentage": 2.26
+            },
+            {
+                "name": "Oulu",
+                "power": 18.6,
+                "percentage": 0.22
+            },
+            {
+                "name": "Perho",
+                "power": 111.0,
+                "percentage": 1.33
+            },
+            {
+                "name": "Pihtipudas",
+                "power": 30.0,
+                "percentage": 0.36
+            },
+            {
+                "name": "Pori",
+                "power": 212.0,
+                "percentage": 2.54
+            },
+            {
+                "name": "Posio",
+                "power": 126.0,
+                "percentage": 1.51
+            },
+            {
+                "name": "Pudasjärvi",
+                "power": 76.5,
+                "percentage": 0.91
+            },
+            {
+                "name": "Pyhäjoki",
+                "power": 560.9,
+                "percentage": 6.71
+            },
+            {
+                "name": "Pyhäjärvi",
+                "power": 93.0,
+                "percentage": 1.11
+            },
+            {
+                "name": "Raahe",
+                "power": 264.3,
+                "percentage": 3.16
+            },
+            {
+                "name": "Ruovesi",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Saarijärvi",
+                "power": 67.5,
+                "percentage": 0.81
+            },
+            {
+                "name": "Salo",
+                "power": 15.6,
+                "percentage": 0.19
+            },
+            {
+                "name": "Sastamala",
+                "power": 13.45,
+                "percentage": 0.16
+            },
+            {
+                "name": "Sauvo",
+                "power": 0.6,
+                "percentage": 0.01
+            },
+            {
+                "name": "Seinäjoki",
+                "power": 9.0,
+                "percentage": 0.11
+            },
+            {
+                "name": "Sievi",
+                "power": 74.0,
+                "percentage": 0.88
+            },
+            {
+                "name": "Siikainen",
+                "power": 26.4,
+                "percentage": 0.32
+            },
+            {
+                "name": "Siikajoki",
+                "power": 220.3,
+                "percentage": 2.63
+            },
+            {
+                "name": "Siikalatva",
+                "power": 43.0,
+                "percentage": 0.51
+            },
+            {
+                "name": "Simo",
+                "power": 280.0,
+                "percentage": 3.35
+            },
+            {
+                "name": "Sodankylä",
+                "power": 27.0,
+                "percentage": 0.32
+            },
+            {
+                "name": "Soini",
+                "power": 30.0,
+                "percentage": 0.36
+            },
+            {
+                "name": "Somero",
+                "power": 17.2,
+                "percentage": 0.21
+            },
+            {
+                "name": "Sottunga",
+                "power": 0.66,
+                "percentage": 0.01
+            },
+            {
+                "name": "Tervola",
+                "power": 30.0,
+                "percentage": 0.36
+            },
+            {
+                "name": "Teuva",
+                "power": 127.0,
+                "percentage": 1.52
+            },
+            {
+                "name": "Tornio",
+                "power": 81.0,
+                "percentage": 0.97
+            },
+            {
+                "name": "Uusikaarlepyy",
+                "power": 37.1,
+                "percentage": 0.44
+            },
+            {
+                "name": "Uusikaupunki",
+                "power": 9.0,
+                "percentage": 0.11
+            },
+            {
+                "name": "Vaala",
+                "power": 132.0,
+                "percentage": 1.58
+            },
+            {
+                "name": "Vaasa",
+                "power": 56.4,
+                "percentage": 0.67
+            },
+            {
+                "name": "Vårdö",
+                "power": 0.5,
+                "percentage": 0.01
+            },
+            {
+                "name": "Vöyri",
+                "power": 154.5,
+                "percentage": 1.85
+            },
+            {
+                "name": "Ylivieska",
+                "power": 29.7,
+                "percentage": 0.36
+            }
+        ]
+    }
+}
